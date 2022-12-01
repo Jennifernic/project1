@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878114074564",
+    "project_id": "shmapp-e07d0",
+    "storage_bucket": "shmapp-e07d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878114074564:android:743314fa8343da09c6fe91",
+        "android_client_info": {
+          "package_name": "com.example.shmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878114074564-qiodb628tlmb9kso1cttq7u42p839g6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDaaslQbADnvgnOirteeKmxdvZoapbAOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878114074564-qiodb628tlmb9kso1cttq7u42p839g6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
